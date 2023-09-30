@@ -1,4 +1,7 @@
 package lanchonete.atendimento.cozinha;
+
+import lanchonete.atendimento.Atendente;
+
 public class Cozinheiro {
 
   public void lavarIngredientes() {
@@ -24,6 +27,8 @@ public class Cozinheiro {
 
   public void adicionarComboNoBalcao() {
   }
+
+ 
 
   public void pedirParaTrocarGas(Almoxarife almoxarife) {
   }
